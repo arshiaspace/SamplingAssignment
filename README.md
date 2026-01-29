@@ -78,3 +78,11 @@ The dataset is balanced using **Random Under Sampling**.
 ### Install Dependencies
 ```bash
 pip install -r requirements.txt
+
+---
+
+## Author
+
+**Name:** Arshia Anand  
+**Roll Number:** 102303144
+
