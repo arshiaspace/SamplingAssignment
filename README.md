@@ -1,4 +1,4 @@
-# Sampling Assignment – Program 1
+# Sampling Assignment
 
 ## Objective
 The objective of this assignment is to understand the importance of **sampling techniques** in handling **imbalanced datasets** and to analyze how different sampling strategies affect the performance of various machine learning models.
