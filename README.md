@@ -81,8 +81,3 @@ pip install -r requirements.txt
 
 ---
 
-## Author
-
-**Name:** Arshia Anand  
-**Roll Number:** 102303144
-
